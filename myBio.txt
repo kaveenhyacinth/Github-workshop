@@ -1,7 +1,11 @@
-01. Name: 
+01. Name: G.G.N Priyamantha 
 
-02. Batch:
+02. Batch: 18.2
 
-03. Course:
+03. Course: BSc (Hons) Computer networks
 
-04. Interests:
+04. Interests: Networking
+               Gaming
+               Movies
+               Hiking
+               

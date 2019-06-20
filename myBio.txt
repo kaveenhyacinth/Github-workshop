@@ -1,7 +1,7 @@
-01. Name: 
+01. Name: Sanjaya Dhansundara
 
-02. Batch:
+02. Batch: 18.2
 
-03. Course:
+03. Course: Computer Networks(PLY)
 
-04. Interests:
+04. Interests: Coding

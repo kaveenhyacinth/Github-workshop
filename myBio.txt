@@ -1,7 +1,9 @@
-01. Name: 
+01. Name: Rishitha Gunawardana
 
-02. Batch:
+02. Batch: 18.2
 
-03. Course:
+03. Course: Software Engineering (ply)
 
-04. Interests:
+04. Interests: coding ,swimming,camping 
+  
+  

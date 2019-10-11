@@ -1,7 +1,7 @@
-01. Name: 
+01. Name: Thisuri Guruge
 
-02. Batch:
+02. Batch: 18.1 Plymouth
 
-03. Course:
+03. Course: Computer Security
 
-04. Interests:
+04. Interests: Coding

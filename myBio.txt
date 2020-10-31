@@ -1,7 +1,7 @@
-01. Name: 
+01. Name: Palinda
 
-02. Batch:
+02. Batch:17.1
 
-03. Course:
+03. Course:software engineering 
 
-04. Interests:
+04. Interests:java
